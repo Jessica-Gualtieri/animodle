@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "tailwindcss": "^3.4.14"
+  },
+  "scripts": {
+    "dev": "npx tailwindcss -i ./animodle/wwwroot/css/input.css -o ./animodle/wwwroot/css/output.css --watch"
+  }
+}

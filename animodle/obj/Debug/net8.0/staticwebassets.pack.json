@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/jessicagualtieri/Desktop/development/animodle/animodle/animodle/wwwroot/css/input.css",
+      "PackagePath": "staticwebassets/css/input.css"
+    },
+    {
+      "Id": "/Users/jessicagualtieri/Desktop/development/animodle/animodle/animodle/wwwroot/css/output.css",
+      "PackagePath": "staticwebassets/css/output.css"
+    },
+    {
+      "Id": "/Users/jessicagualtieri/Desktop/development/animodle/animodle/animodle/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.animodle.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.animodle.props",
+      "PackagePath": "build\\animodle.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.animodle.props",
+      "PackagePath": "buildMultiTargeting\\animodle.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.animodle.props",
+      "PackagePath": "buildTransitive\\animodle.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

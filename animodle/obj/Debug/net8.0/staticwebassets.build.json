@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "5PK3V+TjW45TxKYTow76RJRFOvdzHbmvlKARk/hIM6E=",
+  "Source": "animodle",
+  "BasePath": "_content/animodle",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "animodle/wwwroot",
+      "Source": "animodle",
+      "ContentRoot": "/Users/jessicagualtieri/Desktop/development/animodle/animodle/animodle/wwwroot/",
+      "BasePath": "_content/animodle",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/jessicagualtieri/Desktop/development/animodle/animodle/animodle/wwwroot/css/input.css",
+      "SourceId": "animodle",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/jessicagualtieri/Desktop/development/animodle/animodle/animodle/wwwroot/",
+      "BasePath": "_content/animodle",
+      "RelativePath": "css/input.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/input.css"
+    },
+    {
+      "Identity": "/Users/jessicagualtieri/Desktop/development/animodle/animodle/animodle/wwwroot/css/output.css",
+      "SourceId": "animodle",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/jessicagualtieri/Desktop/development/animodle/animodle/animodle/wwwroot/",
+      "BasePath": "_content/animodle",
+      "RelativePath": "css/output.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/output.css"
+    },
+    {
+      "Identity": "/Users/jessicagualtieri/Desktop/development/animodle/animodle/animodle/wwwroot/favicon.ico",
+      "SourceId": "animodle",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/jessicagualtieri/Desktop/development/animodle/animodle/animodle/wwwroot/",
+      "BasePath": "_content/animodle",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/favicon.ico"
+    }
+  ]
+}
