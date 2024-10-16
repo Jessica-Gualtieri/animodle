@@ -26,3 +26,6 @@
 /Users/jessicagualtieri/Desktop/development/animodle/animodle/animodle/obj/Debug/net8.0/ref/animodle.dll
 /Users/jessicagualtieri/Desktop/development/animodle/animodle/animodle/obj/Debug/net8.0/animodle.RazorAssemblyInfo.cache
 /Users/jessicagualtieri/Desktop/development/animodle/animodle/animodle/obj/Debug/net8.0/animodle.RazorAssemblyInfo.cs
+/Users/jessicagualtieri/Desktop/development/animodle/animodle/animodle/obj/Debug/net8.0/animodle.sourcelink.json
+/Users/jessicagualtieri/Desktop/development/animodle/animodle/animodle/bin/Debug/net8.0/package-lock.json
+/Users/jessicagualtieri/Desktop/development/animodle/animodle/animodle/bin/Debug/net8.0/package.json
